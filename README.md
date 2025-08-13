@@ -12,8 +12,8 @@ A feature-rich Python chess game with AI opponent, move analysis, and interactiv
 
 ## Installation
 1. Clone this repository
-2. Install dependencies: `pip install pygame`
-3. Run the game: `python src/ChessMain.py`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the game: `python ChessMain.py`
 
 ## Requirements
 - Python 3.7+
